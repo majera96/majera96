@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @majera96
+- 🌱 I’m currently learning PHP.
