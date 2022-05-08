@@ -28,11 +28,11 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I'm currently learning PHP.
+- :telescope: I'm currently learning PHP by mentor @tjakopec.
 
 - :seedling: Exploring Content Writing, Crypto currencies and Blockchain.
 
-- :zap: In my free time, I'm playing all kind of sport, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
+- :zap: In my free time, I'm playing football, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-majer-377b49113/)
 
