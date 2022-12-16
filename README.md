@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I'm currently learning PHP by mentor @tjakopec.
+- :telescope: I'm currently learning PHP, MYSQL and Laravel.
 
 - :seedling: Exploring Content Writing, Crypto currencies and Blockchain.
 
